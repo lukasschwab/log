@@ -1,2 +1,0 @@
-this is a first line
-second line followed by a newline
